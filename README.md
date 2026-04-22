@@ -1,0 +1,2 @@
+# GovData-ETL-Pipeline-de-Ingesta-y-Validaci-n-de-Servicios-P-blicos
+Este proyecto resuelve el problema de la fragmentación de datos en archivos CSV mediante un flujo de trabajo robusto en Python. El sistema realiza la extracción, limpieza profunda (Data Wrangling) y validación de tipos, migrando la información de fuentes planas a un entorno SQL. Incluye una capa de control de calidad para validar la estructura
