@@ -1,0 +1,8 @@
+Nombre del conjunto ,Etiqueta del campo o variable,Descripcion,Tipo de dato,Rango o valores que permite el campo,Especificaciones y/o reglas de calculo
+2026_Tramites_Servicios,Periodo,Periodo en el que se genero y firmo el contrato con la empresa ganadora o la que se le adjudico directamente para la realizacion de la obra,Numerico,2026,NO APLICA
+2026_Tramites_Servicios,Tramite_Servicio,Tipo de tramite o servicio que se esta ofreciendo,Alfabetico,Apoyo  a las Mipyme,NO APLICA
+2026_Tramites_Servicios,Nombre,Como es que se le denomina al tramite o servicio que se esta ofreciendo,Alfabetico,direccion o secretaria,NO APLICA
+2026_Tramites_Servicios,Modalidad,Como es que se lleva a cabo el servicio o tramite,Alfabetico,presencial o en línea,NO APLICA
+2026_Tramites_Servicios,Hipervinculo,Sitio web que lo direcciona al tramite o servicio describiendo requisitos y formas,Alfabetico,URL,NO APLICA
+2026_Tramites_Servicios,Area,Unidad Administrativa quien lleva a cabo el tramite o servicio,Alfabetico,direccion o secretaria,NO APLICA
+2026_Tramites_Servicios,Ubicación ,Lugar en el que se lleva a cabo el tramite o servicio,Alfabetico,calle número localidad colonia,NO APLICA
